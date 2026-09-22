@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/c6f5fc77-1018-4322-8bd0-0a42bf783377
+View your app : https://dinesh6351.github.io/operational-metrics-dashboard/
 
 ## Run Locally
 
